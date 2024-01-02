@@ -1,5 +1,5 @@
 import React from 'react';
-import Countdown from './Countdown';
+import Countdown from './countdown';
 import './App.css';
 
 function App() {
